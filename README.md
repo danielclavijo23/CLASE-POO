@@ -1,2 +1,1 @@
-Hola.
--tu cara contra mis bolas
+Proyecto POO
