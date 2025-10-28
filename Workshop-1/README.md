@@ -3,9 +3,8 @@
 This folder contains all files related to **Workshop 1 – Conceptual Design for a Domotic Circuit Simulator**.
 
 ## 📂 Structure
-- **/docs/** – Contains the main report in PDF or LaTeX (`Workshop1.tex`)
+- **/docs/** – Contains the main report in PDF (`#1 POO.pdf`)
 - **/mockups/** – Interface sketches and figures
-- **/src/** – Source code or logic prototypes
 - **README.md** – General description and file references
 
 ## 🧾 Description
