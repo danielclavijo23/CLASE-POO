@@ -4,8 +4,8 @@ This folder contains all files related to **Workshop 1 – Conceptual Design for
 
 ##  Structure
 **/docs/** – Contains the main report in PDF (`#1 POO.pdf`)
- **/mockups/** – Interface sketches and figures
- **README.md** – General description and file references
+**/mockups/** – Interface sketches and figures
+**README.md** – General description and file references
 
 ##  Description
 The project defines a conceptual model of a domotic circuit simulator, including:
