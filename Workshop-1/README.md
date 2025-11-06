@@ -14,6 +14,7 @@ The project defines a conceptual model of a domotic circuit simulator, including
 Functional and non-functional requirements  
 User stories and CRC cards  
 Mockups and interface description 
+
 At the end, the document includes a detailed explanation of the simulator’s interface and its inspiration from tools like **QUCS (Quite Universal Circuit Simulator)**.
 
 Authors
