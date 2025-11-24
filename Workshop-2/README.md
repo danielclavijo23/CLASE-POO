@@ -1,4 +1,4 @@
-**Workshop 1**
+**Workshop 2**
 
 This folder contains all files related to **Workshop 2 – Object-Oriented Implementation for a Domotic Circuit Simulator**.
 
