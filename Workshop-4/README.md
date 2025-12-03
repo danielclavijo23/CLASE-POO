@@ -11,7 +11,7 @@ domotic_package/
   main.py # Entry point
 
 **Running the Project**
-## Requirements
+Requirements
 - Python 3.10+
 - PyQt5
 
