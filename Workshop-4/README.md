@@ -13,14 +13,13 @@ The goal of this workshop is to integrate a layered architecture, a Python GUI, 
   - main.py # Entry point
 
 **Running the Project**
-Requirements
-- Python 3.10+
-- PyQt5
-Install dependencies
-- pip install pyqt5
-Run the simulator
-- python main.py
-
+- Requirements
+  - Python 3.10+
+  - PyQt5
+- Install dependencies
+  - pip install pyqt5
+- Run the simulator
+  - python main.py
 
 **Authors:**
 - Andres David Hincapié Álvarez
