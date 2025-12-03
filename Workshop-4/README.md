@@ -4,11 +4,13 @@ This folder contains the implementation for Workshop #4 of the Object-Oriented P
 The goal of this workshop is to integrate a layered architecture, a Python GUI, and file-based persistence into the domotic circuit simulator developed in previous workshops.
 
 **Project Structure (Layered Architecture)**
-domotic_package/
-  presentation/ # GUI layer (PyQt5 windows, dialogs, widgets)
-  business/ # Core simulation logic (OOP + SOLID)
-  data/ # Persistence layer (save/load)
-  main.py # Entry point
+- README.md
+- Workshop 4.pdf
+- domotic_package/
+  - presentation/ # GUI layer (PyQt5 windows, dialogs, widgets)
+  - business/ # Core simulation logic (OOP + SOLID)
+  - data/ # Persistence layer (save/load)
+  - main.py # Entry point
 
 **Running the Project**
 Requirements
