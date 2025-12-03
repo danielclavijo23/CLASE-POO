@@ -1,47 +1,27 @@
-# Domotic Circuit Simulator — Workshop 4
+**Domotic Circuit Simulator — Workshop 4**
+
 This folder contains the implementation for Workshop #4 of the Object-Oriented Programming course.  
 The goal of this workshop is to integrate a layered architecture, a Python GUI, and file-based persistence into the domotic circuit simulator developed in previous workshops.
----
-## 📌 Project Structure (Layered Architecture)
 
+**Project Structure (Layered Architecture)**
 domotic_package/
-│
-├── presentation/ # GUI layer (PyQt5 windows, dialogs, widgets)
-│
-├── business/ # Core simulation logic (OOP + SOLID)
-│
-├── data/ # Persistence layer (save/load)
-│
-└── main.py # Entry point
+  presentation/ # GUI layer (PyQt5 windows, dialogs, widgets)
+  business/ # Core simulation logic (OOP + SOLID)
+  data/ # Persistence layer (save/load)
+  main.py # Entry point
 
-css
-Copiar código
-
-Each layer communicates in a single direction:
-
-GUI → Business Logic → Persistence
-
-yaml
-Copiar código
-
----
-
-## 🖥 Running the Project
-
-### Requirements
+**Running the Project**
+## Requirements
 - Python 3.10+
 - PyQt5
 
 ### Install dependencies
-```bash
 pip install pyqt5
-Run the simulator
-bash
-Copiar código
+### Run the simulator
 python main.py
-👥 Authors
-Andres David Hincapié Álvarez
 
-Samuel Alejandro Bulla Fiquitiva
 
-Daniel Alejandro Clavijo González
+**Authors:**
+- Andres David Hincapié Álvarez
+- Samuel Alejandro Bulla Fiquitiva
+- Daniel Alejandro Clavijo González
